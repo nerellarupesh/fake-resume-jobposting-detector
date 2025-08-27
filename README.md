@@ -1,2 +1,2 @@
-# AI-Resume-Fit-Analyzer
-An AI-powered tool that analyzes resumes against job descriptions and gives a fit score, missing skills, and suggestions
+# fake-resume-jobposting-detector
+An NLP-based project to detect fake resumes or job postings.
